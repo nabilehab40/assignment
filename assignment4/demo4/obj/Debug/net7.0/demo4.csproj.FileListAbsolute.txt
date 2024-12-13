@@ -1,0 +1,14 @@
+G:\cours.net\visual\demo4\bin\Debug\net7.0\demo4.exe
+G:\cours.net\visual\demo4\bin\Debug\net7.0\demo4.deps.json
+G:\cours.net\visual\demo4\bin\Debug\net7.0\demo4.runtimeconfig.json
+G:\cours.net\visual\demo4\bin\Debug\net7.0\demo4.dll
+G:\cours.net\visual\demo4\bin\Debug\net7.0\demo4.pdb
+G:\cours.net\visual\demo4\obj\Debug\net7.0\demo4.GeneratedMSBuildEditorConfig.editorconfig
+G:\cours.net\visual\demo4\obj\Debug\net7.0\demo4.AssemblyInfoInputs.cache
+G:\cours.net\visual\demo4\obj\Debug\net7.0\demo4.AssemblyInfo.cs
+G:\cours.net\visual\demo4\obj\Debug\net7.0\demo4.csproj.CoreCompileInputs.cache
+G:\cours.net\visual\demo4\obj\Debug\net7.0\demo4.dll
+G:\cours.net\visual\demo4\obj\Debug\net7.0\refint\demo4.dll
+G:\cours.net\visual\demo4\obj\Debug\net7.0\demo4.pdb
+G:\cours.net\visual\demo4\obj\Debug\net7.0\demo4.genruntimeconfig.cache
+G:\cours.net\visual\demo4\obj\Debug\net7.0\ref\demo4.dll

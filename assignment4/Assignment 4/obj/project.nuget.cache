@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CVkPHDHSdio=",
+  "success": true,
+  "projectFilePath": "G:\\cours.net\\visual\\Assignment 4\\Assignment 4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nabil\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
