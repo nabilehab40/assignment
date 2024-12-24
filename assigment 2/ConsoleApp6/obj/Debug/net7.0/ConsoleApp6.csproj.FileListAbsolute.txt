@@ -1,0 +1,14 @@
+G:\cours.net\visual\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.exe
+G:\cours.net\visual\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.deps.json
+G:\cours.net\visual\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.runtimeconfig.json
+G:\cours.net\visual\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.dll
+G:\cours.net\visual\ConsoleApp6\bin\Debug\net7.0\ConsoleApp6.pdb
+G:\cours.net\visual\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+G:\cours.net\visual\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.AssemblyInfoInputs.cache
+G:\cours.net\visual\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.AssemblyInfo.cs
+G:\cours.net\visual\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+G:\cours.net\visual\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.dll
+G:\cours.net\visual\ConsoleApp6\obj\Debug\net7.0\refint\ConsoleApp6.dll
+G:\cours.net\visual\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.pdb
+G:\cours.net\visual\ConsoleApp6\obj\Debug\net7.0\ConsoleApp6.genruntimeconfig.cache
+G:\cours.net\visual\ConsoleApp6\obj\Debug\net7.0\ref\ConsoleApp6.dll
